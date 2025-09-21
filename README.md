@@ -23,5 +23,5 @@ Aqui você encontrará informações sobre minha formação, experiências, habi
 
 # Como visualizar
 Você pode acessar meu portfólio online através do link:  
-👉 [Meu Portfólio no Netlify]
+👉 https://portfolio-felipeluza.netlify.app
 
