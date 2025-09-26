@@ -1,4 +1,4 @@
-/* ====== RESET ====== */
+
 * {
   margin: 0;
   padding: 0;
@@ -198,7 +198,7 @@ footer {
   padding: 5px 8px;
   border-radius: 5px;
   position: absolute;
-  bottom: 120%; /* acima do ícone */
+  bottom: 120%; 
   left: 50%;
   transform: translateX(-50%);
   opacity: 0;
