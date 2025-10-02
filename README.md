@@ -10,7 +10,6 @@ Aqui você encontrará informações sobre minha formação, experiências, habi
 # Tecnologias Utilizadas
 - **HTML**
 - **CSS**
-- **JavaScript** (para interatividade futura)
 - **GitHub / Netlify** (para hospedagem)
 
 # Estrutura do Site
@@ -23,5 +22,5 @@ Aqui você encontrará informações sobre minha formação, experiências, habi
 
 # Como visualizar
 Você pode acessar meu portfólio online através do link:  
-👉 https://portfolio-felipeluza.netlify.app
+https://portfolio-felipeluza.netlify.app
 
